@@ -61,7 +61,7 @@ I'm **Raunak Dubey**, an MCA student at **Pondicherry University**. I like turni
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-raunakdubey7891--del-181717?style=for-the-badge&logo=github)](https://github.com/raunakdubey7891-del)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raunak-dubey-637b96333/)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/raunak-dubey-637b96333/)]
 <!-- Add your links below by removing the comment markers and replacing YOUR_... values
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN/)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/YOUR_INSTAGRAM/)
